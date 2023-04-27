@@ -2,3 +2,4 @@ step belajar github
 - create account di github
 - verifikasi account
 - mulai create repo
+- create file
