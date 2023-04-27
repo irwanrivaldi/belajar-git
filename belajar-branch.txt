@@ -2,7 +2,7 @@ belajar branch
 - TAMBAH A0
 - coba buat branch baru
 - buat file baru di branch baru
-- coba edit2 file baru
+- TAMBAH B0
 - coba merge branch ke master
-- TAMBAH A1
-- TAMBAH A2
+- TAMBAH B1
+- TAMBAH B2
