@@ -3,3 +3,4 @@ belajar branch
 - coba buat branch baru
 - buat file baru di branch baru
 - coba edit2 file baru
+- coba merge branch ke master
